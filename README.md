@@ -1,5 +1,5 @@
 # R-Snippets
 
-Repo containing some snippets of R code written to complete small jobs I have needed to do. I provide them here in case they are of use to anyone else. I make no promises about the efficiency of my code!
+Some snippets of R code written to complete small jobs I have needed to do. I provide them here in case they solve someone elses problem. I make no promises about the speed efficiency of my code!
 
-I will try to update this repo periodically.
+Expect few and varied updates here
